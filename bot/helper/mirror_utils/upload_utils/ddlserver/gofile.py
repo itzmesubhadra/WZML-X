@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 #!/usr/bin/env python3
 from os import path as ospath
 from os import walk
